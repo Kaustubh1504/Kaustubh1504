@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh1504&theme=light&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Kaustubh1504" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh1504&theme=light&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Kaustubh1504" /></p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

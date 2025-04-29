@@ -21,12 +21,12 @@ Here are some ideas to get you started:
   <!-- First Row: Two 50% Width Cards -->
   <div style="flex: 1 1 45%; max-width: 45%;">
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="GitHub Streak" style="width: 100%; height: auto;" />
+      <img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="GitHub Streak" style="width: 50%; height: auto;" />
     </a>
   </div>
 
   <div style="flex: 1 1 45%; max-width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1504&layout=compact&theme=default" alt="Top Languages" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1504&layout=compact&theme=default" alt="Top Languages" style="width: 50%; height: auto;" />
   </div>
 
   <!-- Second Row: Full Width Card -->

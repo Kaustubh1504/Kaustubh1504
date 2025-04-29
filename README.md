@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh1504&show_icons=true&locale=en&layout=compact" alt="Kaustubh1504" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&locale=en" alt="Kaustubh1504" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&locale=en&count_private=true" alt="Kaustubh1504" />
   
   <img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="Kaustubh1504" />
 </div>

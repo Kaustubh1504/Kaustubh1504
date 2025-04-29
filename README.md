@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1504&layout=compact&theme=default" alt="Top Languages" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&theme=default" alt="GitHub Stats" />
-  [![GitHub Streak](https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="GitHub Streak" /></a>
 </div>
 
 <!--h1 without bottom border-->

@@ -29,11 +29,19 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh1504&show_icons=true&locale=en&layout=compact" alt="Kaustubh1504" /></p>
+<div style="text-align: center;">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh1504&show_icons=true&locale=en&layout=compact" alt="Kaustubh1504" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&locale=en" alt="Kaustubh1504" /></p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&locale=en" alt="Kaustubh1504" />
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="Kaustubh1504" /></p>
+  <p>
+    <img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="Kaustubh1504" />
+  </p>
+</div>
 
 
 <!-- Connect with me -->

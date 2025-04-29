@@ -15,28 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Statistical Data :-</h3>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- First Row: Two 50% Width Cards -->
-  <div style="flex: 1 1 45%; max-width: 45%;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="GitHub Streak" style="width: 50%; height: auto;" />
-    </a>
-  </div>
-
-  <div style="flex: 1 1 45%; max-width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1504&layout=compact&theme=default" alt="Top Languages" style="width: 50%; height: auto;" />
-  </div>
-
-  <!-- Second Row: Full Width Card -->
-  <div style="flex: 1 1 100%; max-width: 95%; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&theme=default" alt="GitHub Stats" style="width: 100%; height: auto;" />
-  </div>
-</div>
-
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -51,11 +29,11 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashdhamane&show_icons=true&locale=en&layout=compact" alt="shreyashdhamane" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh1504&show_icons=true&locale=en&layout=compact" alt="Kaustubh1504" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashdhamane&show_icons=true&locale=en" alt="shreyashdhamane" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&locale=en" alt="Kaustubh1504" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashdhamane&" alt="shreyashdhamane" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="Kaustubh1504" /></p>
 
 
 <!-- Connect with me -->

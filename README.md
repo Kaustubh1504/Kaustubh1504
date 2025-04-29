@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 <h3>Statistical Data :-</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1504&layout=compact&theme=default" alt="Top Languages" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="GitHub Streak" style="max-width: 300px; height: auto;"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1504&layout=compact&theme=default" alt="Top Languages" style="max-width: 300px; height: auto;"/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&theme=default" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&theme=default" alt="GitHub Stats" style="max-width: 300px; height: auto;"/>
 </div>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

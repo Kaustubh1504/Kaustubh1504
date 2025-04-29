@@ -51,6 +51,13 @@ Here are some ideas to get you started:
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashdhamane&show_icons=true&locale=en&layout=compact" alt="shreyashdhamane" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashdhamane&show_icons=true&locale=en" alt="shreyashdhamane" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashdhamane&" alt="shreyashdhamane" /></p>
+
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">

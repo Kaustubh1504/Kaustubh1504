@@ -17,14 +17,30 @@ Here are some ideas to get you started:
 
 <h3>Statistical Data :-</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" alt="GitHub Streak" style="max-width: 300px; height: auto;"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1504&layout=compact&theme=default" alt="Top Languages" style="max-width: 300px; height: auto;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&theme=default" alt="GitHub Stats" style="max-width: 300px; height: auto;"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- First Row: Two 50% Width Cards -->
+  <div style="flex: 1 1 45%; max-width: 45%;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-delta-umber.vercel.app?user=Kaustubh1504" 
+           alt="GitHub Streak" 
+           style="width: 100%; height: 200px; object-fit: cover;" />
+    </a>
+  </div>
+
+  <div style="flex: 1 1 45%; max-width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1504&layout=compact&theme=default" 
+         alt="Top Languages" 
+         style="width: 100%; height: 200px; object-fit: cover;" />
+  </div>
+
+  <!-- Second Row: Full Width Card -->
+  <div style="flex: 1 1 100%; max-width: 95%; margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&theme=default" 
+         alt="GitHub Stats" 
+         style="width: 100%; height: 200px; object-fit: cover;" />
+  </div>
 </div>
+
 
 
 <!--h1 without bottom border-->

@@ -16,18 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh1504&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Kaustubh1504" 
-    bg_color=#808080/></p>
 
-<br>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1504&layout=compact&theme=default" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&theme=default" alt="GitHub Stats" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaustubh1504&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Kaustubh1504" /></p>
-
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh1504&theme=light&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Kaustubh1504" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaustubh1504&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

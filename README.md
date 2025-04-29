@@ -1,19 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Kaustubh1504/Kaustubh1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kaustubh Gharat**, a passionate Full Stack Developer and Cloud Engineer with a focus on building efficient, scalable applications. I love crafting seamless user experiences and solving real-world problems through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 I’m currently working on **React Native apps**, crypto wallets, and real-time exchange platforms.
+- 🌱 I’m currently learning **Web3 integration**, **Socket-based architecture**, and **advanced Firebase features**.
+- 💼 Previously interned at **Oracle** and recognized by leading incubators like **NSRCEL IIM Bangalore**, **IIT Mandi Catalyst**, and the **US Embassy Nexus Program**.
+- ☁️ I deploy and manage cloud-native applications on **AWS**.
+- 👯 I’m looking to collaborate on impactful open-source projects and early-stage startup products.
+- 🧠 Always learning from **KT videos**, **LinkedIn Learning**, and **YouTube tutorials**.
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kaustubhgharat/) | [Email](mailto:kaustubhgharat1504@gmail.com)
+- ⚡ Fun fact: I once built and deployed a full-stack 3D model viewer with Unity scenes using just React Native and Firebase!
+
+---
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

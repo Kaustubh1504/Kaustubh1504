@@ -41,7 +41,7 @@ YOLO quantization for edge deployment on Jetson Nano
 
 ```bash
 $ cat contact.txt
-> portfolio  : kaustubhgharat.com
-> linkedin   : linkedin.com/in/kaustubh-gharat-6045b7208
-> email      : kaustubhgharat06@gmail.com
 ```
+> portfolio  : [kaustubhgharat.com](https://www.kaustubhgharat.com)
+> linkedin   : [linkedin.com/in/kaustubh-gharat-6045b7208](https://www.linkedin.com/in/kaustubh-gharat-6045b7208/)
+> email      : [kaustubhgharat06@gmail.com](mailto:kaustubhgharat06@gmail.com)

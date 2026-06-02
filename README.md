@@ -14,4 +14,4 @@ I'm **Kaustubh Gharat**, an MS Computer Science student at Northeastern Universi
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/kaustubh-gharat-6045b7208/) · [Email](mailto:kaustubhgharat06@gmail.com)
+[Portfolio](https://www.kaustubhgharat.com) · [LinkedIn](https://www.linkedin.com/in/kaustubh-gharat-6045b7208/) · [Email](mailto:kaustubhgharat06@gmail.com)

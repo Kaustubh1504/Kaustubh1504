@@ -7,9 +7,6 @@
 ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝   ╚══════╝     ╚═╝      ╚═════╝   ╚═════╝   ╚═╝  ╚═╝
 ```
 ```bash
-$ whoami
-> kaustubh gharat
-
 $ cat about.txt
 > MS Computer Science @ Northeastern University
 > Research Assistant @ Barabasi Lab (Network Science Institute)

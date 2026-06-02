@@ -39,10 +39,6 @@ Transformer fine-tuning and LLM pipelines for biomedical NER across 1M+ docs
 YOLO quantization for edge deployment on Jetson Nano
 → [paper](https://ieeexplore.ieee.org/document/10668319)
 
-```
-─────────────────────────────────────────────────────────────────────────────────
-```
-
 ```bash
 $ cat contact.txt
 > portfolio  : kaustubhgharat.com

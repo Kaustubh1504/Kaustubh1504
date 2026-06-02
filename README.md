@@ -12,10 +12,7 @@ $ cat about.txt
 > Research Assistant @ Barabasi Lab (Network Science Institute)
 > Previously Software Developer @ Oracle
 > JN Tata Scholar
-
-$ ls ~/projects/
 ```
-
 <table>
 <tr>
 <td width="50%">

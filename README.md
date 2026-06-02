@@ -1,17 +1,46 @@
-## Hi there 👋
+```
+██╗  ██╗ █████╗ ██╗   ██╗███████╗████████╗██╗   ██╗██████╗ ██╗  ██╗     ██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ████████╗
+██║ ██╔╝██╔══██╗██║   ██║██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║  ██║    ██╔════╝ ██║  ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝
+█████╔╝ ███████║██║   ██║███████╗   ██║   ██║   ██║██████╔╝███████║    ██║  ███╗███████║███████║██████╔╝███████║   ██║   
+██╔═██╗ ██╔══██║██║   ██║╚════██║   ██║   ██║   ██║██╔══██╗██╔══██║    ██║   ██║██╔══██║██╔══██║██╔══██╗██╔══██║   ██║   
+██║  ██╗██║  ██║╚██████╔╝███████║   ██║   ╚██████╔╝██████╔╝██║  ██║    ╚██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
+```
 
-I'm **Kaustubh Gharat**, an MS Computer Science student at Northeastern University and Research Assistant at the [Network Science Institute](https://www.barabasilab.com/) (Barabasi Lab). Previously a Software Developer at **Oracle**. JN Tata Scholar (top 100 nationally for graduate studies abroad). I build things at the intersection of AI, NLP, and systems.
+> Building agentic AI systems.
 
-### What I'm working on
+```bash
+$ whoami
+> kaustubh gharat
 
-🧬 **At NSI**, I fine-tune transformer models and build LLM evaluation pipelines for an [NIH-funded](https://reporter.nih.gov/search/kCp_sb-NWku7rIPfBMI6Xg/project-details/11190944) biomedical knowledge extraction project across a 1M+ document corpus.
+$ cat about.txt
+> MS Computer Science @ Northeastern University
+> Research Assistant @ Barabasi Lab (Network Science Institute)
+> Previously Software Developer @ Oracle
+> JN Tata Scholar
 
-🤖 **[Self-Healing 6G Network](https://github.com/Kaustubh1504/Self-Healing-6G-Network)** - A multi-agent system built with LangGraph that detects network faults, runs root-cause analysis over a knowledge graph, and auto-recovers. Includes a digital twin streaming real 5G KPI traces.
+$ ls ~/projects/
+```
 
-🚀 **[Cloud Robot Simulator](https://github.com/Kaustubh1504/agent-forge-hackthon)** - Built in 4 hours at Agent Forge Hackathon. An MCP server that spins up GPU-powered Gazebo simulations from a single voice command and streams the robot back to your browser via noVNC.
+### `self-healing-6g-network/`
+Multi-agent fault detection and auto-recovery using LangGraph + knowledge graphs
+→ [repo](https://github.com/Kaustubh1504/Self-Healing-6G-Network)
 
-🌾 **IEEE AESS Grant Research** - Led a [$25K IEEE-funded](https://ieee-aess.org/files/ieeeaess/2023-05/AES_Spring23_DSTEI_Davis.pdf) project on UAV crop health monitoring. Built and quantized YOLO models for real-time inference on NVIDIA Jetson Nano. Published [two papers](https://ieeexplore.ieee.org/document/10668319) at IEEE SPACE 2024.
+### `cloud-robot-simulator/`
+MCP server that spins up GPU-powered robot sims from a voice command
+→ [repo](https://github.com/Kaustubh1504/agent-forge-hackthon)
 
-### Get in touch
+### `biotoolkb/`
+Transformer fine-tuning and LLM pipelines for biomedical NER across 1M+ docs
+→ [grant](https://reporter.nih.gov/search/kCp_sb-NWku7rIPfBMI6Xg/project-details/11190944)
 
-[Portfolio](https://www.kaustubhgharat.com) · [LinkedIn](https://www.linkedin.com/in/kaustubh-gharat-6045b7208/) · [Email](mailto:kaustubhgharat06@gmail.com)
+### `ieee-space-2024/`
+YOLO quantization for edge deployment on Jetson Nano
+→ [paper](https://ieeexplore.ieee.org/document/10668319)
+
+```bash
+$ cat contact.txt
+> portfolio  : kaustubhgharat.com
+> linkedin   : linkedin.com/in/kaustubh-gharat-6045b7208
+> email      : kaustubhgharat06@gmail.com
+```
